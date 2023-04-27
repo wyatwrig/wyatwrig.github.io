@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hey, I'm Wyatt.
+
+I'm currently studying for an MS in Cyber Security and working on my CompTIA Network+ and Security+. I have a BLT1 certification from Security Blue Team and a BS in Computer Science.
